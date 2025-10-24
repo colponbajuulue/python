@@ -1,10 +1,5 @@
-question1 = input("what is your hobby ")
-print("his hobby is", question1)
+hobby = football
+age = 19
 
-print(10 - 7)
 
-num = 453
-print(type(num))
-
-type_of_num = type(num)
-print(type_of_num)
+print(f("my hobby is {hobby}. i am {age} years old."))
